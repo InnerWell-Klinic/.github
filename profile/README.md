@@ -16,10 +16,10 @@ InnerWell Klinic WebApp adalah sebuah sistem manajemen klinik berbasis web yang 
 
 ## Anggota Kelompok 👥
 
-*   L0122047 - Dhiya Yasyifa Hani [ Dokumentasi ]
-*   L0122064 - Ferdy Rizkiawan [ Programmer ]
-*   L0122070 - Haidar Dzaky Musyaffa [ Programmer ]
-*   L0122151 - Whilyan Pratama [ Project Manager ]
+*   L0122047 - Dhiya Yasyifa Hani      [ Dokumentasi ]
+*   L0122064 - Ferdy Rizkiawan         [ Programmer ]
+*   L0122070 - Haidar Dzaky Musyaffa   [ Programmer ]
+*   L0122151 - Whilyan Pratama         [ Project Manager ]
 
 ## Fitur Utama ✨
 
